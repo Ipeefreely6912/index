@@ -1,0 +1,28 @@
+body {
+  background-color: purple;
+  font-family: arial;
+  font-size: 14px;
+  background-image: url("images/blue-snow.png");
+  background-repeat: repeat;
+}
+
+h1 {
+  color: blue;
+  font-size: 24px;
+
+.banner {
+  height: 350px;
+  background-image: url("images/banner.jpg");
+  background-size: cover;
+  background-position: center;
+}
+
+}
+.container {
+  max-width: 1000px;
+  margin: 0 auto;
+  background-color: yellow;
+  background-image: url("images/night-time.jpg");
+  background-repeat: repeat;
+  background-position: center;
+}
