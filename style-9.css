@@ -9,9 +9,10 @@ body {
 h1 {
   color: blue;
   font-size: 24px;
+}
 
 .banner {
-  height: 350px;
+  height: 200px;
   background-image: url("images/banner.jpg");
   background-size: cover;
   background-position: center;
@@ -25,4 +26,5 @@ h1 {
   background-image: url("images/background.jpg");
   background-repeat: repeat;
   background-position: center;
+  padding: 30px;
 }
