@@ -29,3 +29,29 @@ h1 {
   background-position: center;
   padding: 30px;
 }
+
+
+.recipe {
+  max-width: 1400px;
+  /* height: 100px; */
+  margin: 0 auto;
+  background-color: white;
+  background-image: url("images/blue-snow.png");
+  display: grid;
+  grid-template-colums: 400px 800px;
+  align-items: start;
+  justify-content: space-between;
+}
+
+.recipe1 {
+  max-width: 500px;
+}
+
+img {
+  width: 400px;
+  height: 300px
+}
+
+p {
+  padding: 30px;
+}
