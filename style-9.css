@@ -22,7 +22,7 @@ h1 {
   max-width: 1000px;
   margin: 0 auto;
   background-color: yellow;
-  background-image: url("images/blue-snow.jpg");
+  background-image: url("images/background.jpg");
   background-repeat: repeat;
   background-position: center;
 }
